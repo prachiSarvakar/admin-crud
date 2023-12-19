@@ -1,0 +1,13 @@
+.article-header {
+  background-color: grey;
+  border: 2px solid black;
+  color: white;
+  text-align: center;
+}
+
+.section-content {
+  margin: 2% 10%;
+}
+.add-emp-btn {
+  float: right;
+}

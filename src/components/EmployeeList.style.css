@@ -1,0 +1,26 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #1e1e1e;
+  text-align: left;
+  padding: 8px;
+  width: 20%;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.btn-styles {
+  display: flex;
+  justify-content: space-between;
+}
+
+.emp-list-header {
+  text-align: center;
+}
